@@ -1,0 +1,6 @@
+numpy==2.2.6
+pandas==2.2.3
+scipy==1.15.3
+SQLAlchemy==2.0.41
+statsmodels==0.14.4
+psycopg[binary]==3.2.9
